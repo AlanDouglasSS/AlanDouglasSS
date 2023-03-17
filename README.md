@@ -6,6 +6,7 @@ Back-end | Microsoft .Net - (C#, SQL Server) | Pacote Microsoft Office e diverso
 🤖------------HTML5,
 ------------CSS3,
 ------------JS,
+------------PHP
 ------------C#,
 ------------NodeJS,
 ------------Solidity,
