@@ -3,13 +3,14 @@ Como formação contínua em Analise e Desenvolvimento de Sisitemas, profissiona
 possuo habilidades em diversos seguiemntos, mesclando experiencia em varejo e TI como, Front-end - (HTML, CSS, JavaScrip, Sass) e 
 Back-end | Microsoft .Net - (C#, SQL Server) | Pacote Microsoft Office e diversos outros recurso do meio tecnologico.
 
-🤖------------HTML5,
+🤖
+-----------HTML5,
 ------------CSS3,
 ------------JS,
+------------Python
+------------Scala
 ------------PHP
-------------C#,
-------------NodeJS,
-------------Solidity,
+------------SQL,
 ------------SQL Server,
 ------------Versionamento(Git),
 ------------Inglês Intermediário
