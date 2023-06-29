@@ -8,7 +8,7 @@ Back-end | Microsoft .Net - (C#, SQL Server) | Pacote Microsoft Office e diverso
 ------------CSS3,
 ------------JS,
 ------------Python
-------------Scala
+------------NodeJS
 ------------PHP
 ------------SQL,
 ------------SQL Server,
